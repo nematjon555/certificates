@@ -18,7 +18,7 @@
 | 4 | Network Addressing and Basic Troubleshooting | 12.08.2026 | [PDF](cisco/network-addressing-and-basic-troubleshooting.pdf) |
 | 5 | Networking Devices and Initial Configuration | 11.08.2026 | [PDF](cisco/networking-devices-and-initial-configuration.pdf) |
 | 6 | Networking Basics | 10.08.2026 | [PDF](cisco/networking-basics.pdf) |
-| 7 | Python Essentials 1 | 09.08.2026 | [PDF](cisco/python-essentials-1.pdf) |
+
 
 ## Навыки, подтверждённые сертификатами
 
